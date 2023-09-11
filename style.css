@@ -1,0 +1,37 @@
+body{
+    background-color: #1a1717;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#title{
+    color: #ffffff;
+}
+
+#introtext{
+    color: gray;
+}
+
+.highlight{
+    color: #ff0000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#introContainer{
+    width: 400px;
+    float: left;
+}
+
+.reset{
+    clear: both;
+}
+
+#hobbyContainer{
+    width: 400px;
+    float: left;
+    color: gray;
+}
+
+#introPicture{
+    float: left;
+}
