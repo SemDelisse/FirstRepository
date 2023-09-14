@@ -6,10 +6,12 @@ body{
 
 #title{
     color: #ffffff;
+    margin: 10px 20px 0px 20px;
 }
 
 #introtext{
     color: gray;
+    margin: 10px 20px 0px 20px;
 }
 
 .highlight{

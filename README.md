@@ -1,1 +1,1 @@
-hello
+hello, this is the code of my first website that I coded myself.
