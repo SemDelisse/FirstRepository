@@ -29,11 +29,15 @@ body{
 }
 
 #hobbyContainer{
-    width: 400px;
+    width: 245px;
     float: left;
     color: gray;
 }
 
 #introPicture{
+    float: left;
+}
+
+#gamesPicture{
     float: left;
 }
