@@ -14,6 +14,11 @@ body{
     margin: 10px 20px 0px 20px;
 }
 
+#secondintroContainer{
+    color: gray;
+    margin: 0px 0px 0px 20px;
+}
+
 .highlight{
     color: #ff0000;
     font-family: Arial, Helvetica, sans-serif;
@@ -47,18 +52,33 @@ body{
     margin: 0px auto;
 }
 
-#discordLogo{
-    float: left;
-}
-
-#redditLogo{
-    float: left;
-}
-
-#youtubeLogo{
-    float: left;
+.logo{
+        float: left;
+        width: 68px;
+        height: 68px;
+        background-color: #1a1717;
+        text-align: center;
+        margin: 20px 0px 0px 0px;
 }
 
 #quoteOfTheDay{
     float: left;
+    margin: 20px 0px 0px 41px;
+}
+
+#navigation {
+    height: 30px;
+    margin: 0px 0px 10px 0px;
+}
+
+#navigation a {
+    padding: 10px;
+    background: #cc530c;
+    color: #FFFFFF;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+#navigation a:hover {
+    background: #cc530c;
 }
