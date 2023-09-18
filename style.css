@@ -20,7 +20,7 @@ body{
 }
 
 #introContainer{
-    width: 400px;
+    width: 307px;
     float: left;
 }
 
@@ -39,5 +39,26 @@ body{
 }
 
 #gamesPicture{
+    float: left;
+}
+
+#mainContainer{
+    width: 600px;
+    margin: 0px auto;
+}
+
+#discordLogo{
+    float: left;
+}
+
+#redditLogo{
+    float: left;
+}
+
+#youtubeLogo{
+    float: left;
+}
+
+#quoteOfTheDay{
     float: left;
 }
