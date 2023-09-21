@@ -58,12 +58,12 @@ body{
         height: 68px;
         background-color: #1a1717;
         text-align: center;
-        margin: 20px 0px 0px 0px;
+        margin: 20px 20px 0px 0px;
 }
 
-#quoteOfTheDay{
+#meme{
     float: left;
-    margin: 20px 0px 0px 41px;
+    margin: 20px 0px 0px 10px;
 }
 
 #navigation {
@@ -80,5 +80,5 @@ body{
 }
 
 #navigation a:hover {
-    background: #cc530c;
+    background: #ab3f00;
 }
